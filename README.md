@@ -11,4 +11,7 @@
 ![Tableu](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-red?style=for-the-badge)
 ![Metabase](https://img.shields.io/badge/Metabase-blue?style=for-the-badge&logo=metabase&labelColor=grey)
-### Socials
+### Контакты
+![Email](https://img.shields.io/badge/roman__m%40internet.ru-white?style=for-the-badge&logo=maildotru&labelColor=black)
+[![Telegram](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&labelColor=white
+)](https://t.me/zoomer_doomer)
