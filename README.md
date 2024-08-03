@@ -5,7 +5,7 @@
 
 ### Стек
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL_2](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=white)
+![SQL_2](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=grey)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableu](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
